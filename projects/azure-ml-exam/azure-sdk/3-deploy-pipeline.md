@@ -46,3 +46,6 @@ We would like to analyze how the model is preforming on new data since its train
 3. Publish the pipeline as an endpoint
 4. Setup Batch Inference Schedule
 
+### [Model Monitoring](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-monitor-online-endpoints?view=azureml-api-2)
+
+### [Data Drift](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-enable-data-collection?view=azureml-api-1)
